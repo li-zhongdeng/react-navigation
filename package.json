@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "@react-navigation/core": "~3.5.1",
-    "@react-navigation/native": "li-zhongdeng/native#a238de3",
+    "@react-navigation/native": "li-zhongdeng/native#7aa51c2",
     "react-navigation-drawer": "~1.4.0",
     "react-navigation-stack": "1.5.3",
     "react-navigation-tabs": "~1.2.0"
